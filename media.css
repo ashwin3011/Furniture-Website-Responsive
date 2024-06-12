@@ -1,0 +1,238 @@
+@media only screen and (max-width:767px) and (min-width:320px){
+    .beauty-space{
+       
+        padding: 23px 5px;;
+        margin-top: 20px;
+    
+    }
+    .navbar-nav .nav-link {
+        padding-right: 0;
+        padding-left: 0;
+        margin: 0;
+       
+    }
+    .navbar-collapse {
+        padding-right: 0;
+    }
+    .banner{
+        position: relative;
+    }
+    .main-beauty{
+        display: flex;
+        justify-content: center;
+    }
+    .child-delivery{
+        margin-left: 18px;
+    }
+    .child-support{
+        margin-left: 18px; 
+    }
+    .child-authentic{
+        margin-left: 18px;
+    }
+    .banner_dcenter {
+        position: relative;
+        top: 0px;
+        right: 0px;
+        margin: 15px
+    }
+    .browser-parent h5 {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    .browser-parent{
+        margin: 15px;
+    }
+    .banner_div {
+        width: 100%;
+        background: rgba(223, 233, 244, 1);
+        border-radius: 10px;
+        text-align: start;
+        padding: 10px;
+    }
+    .banner_div button {
+        
+        font-size: 6px;
+        width: 89px;
+        width: 65px;
+        padding: 4px;
+
+    }
+    .banner_div h1 {
+       
+        font-size: 12px;
+       
+    }
+    .banner_div h4 {
+        font-size: 8px;
+        
+    }
+    .banner_div p {
+       
+        font-size: 8px;
+        margin-bottom: 2px;
+    }
+    .beauty-space {
+        margin: 15px;
+    }
+    .beauty-space h4 {
+        
+        font-size: 17px;
+    }
+    .beauty-space p {
+        font-size: 12px;
+        line-height: 22px;
+    }
+    .beauty-space button{
+        
+        margin-bottom: 25px;
+        font-size: 11px;
+    }
+    .insp p {
+       
+        margin-bottom: 0px;
+    }
+    .insp{
+        padding: 15px;
+    }
+    .container-support{
+        margin-bottom: 10px;
+        justify-content: flex-start;
+    }
+    .container-delivery{
+        margin-bottom: 10px;
+        justify-content: flex-start;
+    }
+    .container-authentic{
+        justify-content: flex-start;
+    }
+    .browser p{
+        margin-bottom: 0px;
+    }
+    .browser{
+        padding: 15p;
+    }
+    .work-head p{
+        margin-bottom: 0px;
+    }
+    .work-head{
+        padding: 15px;
+    }
+    .img_set img{
+       
+        padding: 15px;
+    }
+    .middle-pic img{
+        margin-top: 0%;
+    }
+    .three-img-footer h5{
+        margin-left: 0%;
+    }
+    .parent-mailing {
+        padding: 0;
+        margin: 15px;
+    }
+    .signup{
+        margin-right: 70px;
+    }
+    .signup input{
+        padding: 10px 10px 10px 10px;
+    }
+    .work-main{
+        margin: 15px;
+    }
+    .footer-furniture{
+        margin: 15px;
+    }
+    .footer-furniture p{
+        font-size: 14px;
+    }
+   
+    .footer-furniture{
+        padding: 13%;
+    }
+    .ig_imges img{
+        width: 100%;
+        margin-bottom: 12px;
+        display: block;
+        
+    }
+
+}
+
+@media only screen and (max-width:991px){
+    .navbar-nav .nav-link {
+        border-bottom: 1px solid black;
+    }
+  
+}
+
+@media only screen and (max-width:1024px) and (min-width:768px){
+    .navbar-nav .nav-link {
+        padding-right: 0;
+        padding-left: 0;
+        margin: 15px;
+       
+    }
+    .navbar-collapse{
+        padding-right: 0;
+    }
+    .banner img{
+        width: 100%;
+        position: relative;
+    }
+    .banner_dcenter{
+        position: absolute;
+        top: 30%;
+        right: 70px;
+      
+    }
+    .banner_div {
+        width: 411px;
+        
+    }
+    .banner_div h1{
+        font-size: 20px;
+        
+    }
+    .banner_div h4{
+        font-size: 12px;
+        
+    }
+    .banner_div p{
+        font-size: 13px;
+    }
+    .banner_div button{
+        width: 90px;
+        font-size: 7px;
+    }
+    .banner-footer p{  
+        font-size: 9px;
+        margin-bottom: 0;
+    }
+    .banner-footer h5{
+        font-size: 15px;
+    }
+    .banner-footer img{
+        max-width: 75%;
+       
+    }
+    .child-mailing p {
+       
+        font-size: 13px;
+    }
+    .beauty-space p{
+        font-size: 14px;
+    }
+    .ig_imges img{
+        width: 100%;
+    }
+
+}
+
+
+
+
+
+
+

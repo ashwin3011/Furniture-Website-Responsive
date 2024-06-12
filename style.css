@@ -1,0 +1,377 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Montserrat;
+}
+
+.navbar-collapse {
+    padding-right: 40px;
+}
+
+.navbar-brand {
+    padding-left: 50px;
+    font-size: 34px;
+    color: rgba(5, 76, 115, 1);
+    font-weight: 700;
+}
+
+.navbar-brand a:hover {
+    color: #998e8e;
+}
+
+.navbar-nav a {
+    color: rgba(51, 51, 51, 1);
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.navbar-nav .nav-link {
+    text-align: center;
+    margin: 20px;
+    border-bottom: 0px;
+}
+
+.navbar-nav a:hover {
+    color: #998e8e;
+}
+
+.container-fluid a {
+    font-weight: 500
+}
+
+.container {
+    max-width: 1440px;
+}
+
+.banner_div h1 {
+    font-weight: 700;
+    font-size: 30px;
+    color: rgba(5, 76, 115, 1);
+}
+
+.banner_div h4 {
+    font-size: 13px;
+    font-size: 600;
+}
+
+.banner_div p {
+    font-weight: 500;
+    font-size: 13px;
+}
+
+.banner_dcenter {
+    position: absolute;
+    top: 195px;
+    right: 130px;
+}
+
+.banner img {
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+.banner {
+    position: relative;
+}
+
+.banner_div {
+    width: 449px;
+    background: rgba(223, 233, 244, 1);
+    border-radius: 10px;
+    text-align: start;
+    padding: 20px;
+}
+
+.banner_div button {
+    background: rgba(5, 76, 115, 1);
+    color: #ffff;
+    font-size: 10px;
+    font-weight: 600;
+    width: 125px;
+    padding: 10px;
+}
+
+.banner_div button:hover {
+    color: #998e8e;
+}
+
+.container-authentic {
+    display: flex;
+    justify-content: center;
+}
+
+.container-support {
+    display: flex;
+    justify-content: center;
+}
+
+.container-delivery {
+    display: flex;
+    justify-content: center;
+}
+
+.child-delivery {
+    margin-left: 10px;
+}
+
+.banner-footer {
+    background: rgba(242, 245, 255, 1);
+    padding-top: 28px;
+    padding-bottom: 28px;
+}
+
+.banner-footer h5 {
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.banner-footer img {
+    max-width: 82%;
+}
+
+.banner-footer p {
+    margin-bottom: 0;
+    font-size: 11px;
+}
+
+.insp {
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.insp h4 {
+    font-weight: 700;
+}
+
+.insp p {
+    color: rgba(102, 102, 102, 1);
+}
+
+.img_set img {
+    width: 100%;
+}
+
+.beauty-space {
+    background-color: rgba(242, 245, 255, 1);
+    margin-top: 10px;
+    padding: 35px;
+    padding-right: 0;
+}
+
+.main-beauty {
+    /* height: 100%; */
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.main-beauty button:hover {
+    color: #998e8e;
+}
+
+.beauty-space button {
+    background: rgba(5, 76, 115, 1);
+    color: #ffff;
+    font-size: 12px;
+    font-weight: 600;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    /* height: 40px; */
+    /* width: 125px; */
+}
+
+.beauty-space h4 {
+    font-weight: 700;
+}
+
+.beauty-space p {
+    font-size: 15px;
+    /* max-width: 85%; */
+    margin-bottom: 0;
+    line-height: 28px;
+    color: rgba(102, 102, 102, 1);
+}
+
+.girl-img img {
+    /* width: 350px;
+    z-index: 2;
+    position: relative; */
+    display: block;
+    max-width: 70%;
+    width: 100%;
+    height: auto;
+    position: relative;
+    z-index: 2;
+}
+
+.circle {
+    width: 50%;
+    height: 55%;
+    background: rgba(9, 81, 59, 1);
+    border-radius: 50%;
+    position: absolute;
+    top: 9%;
+    right: 15%;
+    transform: translateY(22%);
+    z-index: 1;
+}
+
+.parent-beauty {
+    height: 100%;
+    position: relative;
+}
+
+.browser {
+    text-align: center;
+    padding: 25px;
+}
+
+.browser h4 {
+    font-weight: 700;
+}
+
+.browser-parent {
+    padding-bottom: 30px;
+    border-bottom: 1px solid black;
+}
+
+.browser-parent h5 {
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+}
+
+.browser p {
+    color: rgba(102, 102, 102, 1);
+}
+
+.browse-pic img {
+    width: 100%;
+}
+
+.middle-pic img {
+    width: 100%;
+    margin-top: -10%;
+}
+
+hr {
+    background: rgba(215, 214, 214, 1);
+}
+
+.work-head {
+    text-align: center;
+    padding: 30px;
+}
+
+.work-head h4 {
+    font-weight: 700;
+}
+
+.work-main {
+    margin-bottom: 9%;
+}
+
+.work-head p {
+    color: rgba(102, 102, 102, 1);
+}
+
+.con-work img {
+    width: 100%;
+}
+
+.con-work h3 {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.con-work {
+    text-align: center;
+}
+
+.con-work p {
+    color: rgba(102, 102, 102, 1);
+}
+
+.parent-mailing {
+    background-color: rgba(242, 245, 255, 1);
+    padding: 25px;
+}
+
+.signup {
+    margin-top: 15px;
+    margin-right: 11%;
+}
+
+.signup input {
+    /* width: 210px;
+    height: 43px; */
+    background-color: white;
+    text-align: center;
+    position: relative;
+    font-size: 11px;
+    padding: 10px 20px 10px 20px;
+}
+
+.signup button {
+    /* width: 100px;
+    height: 43px; */
+    background-color: rgba(5, 76, 115, 1);
+    color: white;
+    font-weight: 700;
+    font-family: Montserrat;
+    position: absolute;
+    font-size: 11px;
+    padding: 10px;
+    padding-right: 13px;
+    padding-left: 13px;
+}
+
+.child-mailing {
+    padding: 10px;
+    text-align: center;
+}
+
+.signup input::placeholder {
+    text-align: start;
+    padding: 5px;
+}
+
+.child-mailing p {
+    margin-bottom: 0px;
+    color: rgba(102, 102, 102, 1);
+}
+
+.child-mailing h5 {
+    font-weight: 700;
+}
+
+.div-mailing h5 {
+    font-weight: 700;
+}
+
+.footer-furniture p {
+    line-height: 28px;
+    font-size: 13px;
+}
+
+.footer-text h5 {
+    text-align: start;
+    font-weight: 700;
+}
+
+.ig_imges img {
+    width: 80%;
+}
+
+.ig_imges {
+    display: flex;
+    justify-content: center;
+}
+
+.footer-furniture {
+    background: #03344F;
+    color: #ffff;
+    padding: 50px;
+}
