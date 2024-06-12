@@ -1,4 +1,4 @@
-I have created frontend with HTML/CSS/BOOTSTRAP
+I have created Furniture Website frontend with HTML/CSS/BOOTSTRAP
 Responsive Frontend
 
 
